@@ -89,7 +89,7 @@ section h3 {
 }
 
 .participants-list {
-  list-style-position: inside;
+  list-style: none;
   color: #555;
   font-size: 14px;
 }
